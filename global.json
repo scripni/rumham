@@ -1,6 +1,6 @@
 {
     "projects":[
-        "api",
-        "api.test"
+        "web",
+        "web.test"
     ]
 }

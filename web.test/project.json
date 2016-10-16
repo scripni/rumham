@@ -16,7 +16,7 @@
           "type": "platform",
           "version": "1.0.1"
         },
-        "api":"1.0.0"
+        "web":"1.0.0"
       },
       "imports": [
         "dotnet5.4",
