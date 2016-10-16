@@ -6,9 +6,9 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using WebApplication.Models;
-using WebApplication.Models.ManageViewModels;
-using WebApplication.Services;
+using RumHam.Models;
+using RumHam.Models.ManageViewModels;
+using RumHam.Services;
 
 namespace RumHam.Controllers
 {
